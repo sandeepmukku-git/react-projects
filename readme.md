@@ -1,2 +1,2 @@
 # React series
-React Projects
+React projects
